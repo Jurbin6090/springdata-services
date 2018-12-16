@@ -1,4 +1,4 @@
-package com.gymapp.workoutservice.enumeration;
+package com.springdata.service.enumeration;
 
 public enum WorkoutType {
     Bench,
